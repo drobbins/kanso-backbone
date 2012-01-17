@@ -1,0 +1,19 @@
+{
+    "name": "backbone",
+    "version": "0.5.3",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "David Robbins",
+            "url": "http://about.me/robbinsd"
+        }
+    ],
+    "url": "http://documentcloud.github.com/backbone",
+    "modules": "backbone.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": ">=0.0.8",
+        "underscore": null
+    },
+    "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface."
+}
