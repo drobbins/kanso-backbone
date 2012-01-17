@@ -1,0 +1,12 @@
+{
+  "name":"backbone-test",
+  "version":"0.0.1",
+  "description":"A simple app to test the Kanso Backbone.js package",
+  "modules": ["lib"],
+  "attachments":["index.html"],
+  "dependencies":{
+    "attachments":null,
+    "modules":null,
+    "backbone":null
+  }
+}
