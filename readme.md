@@ -30,5 +30,5 @@ Run `kanso install` to fetch the package.
 
   // use require if you use the jquery kanso module
   // or window.$ if you use the stock jQuery
-})(require('jquery'), require('backbone'));
+})(require('jquery/core'), require('backbone'));
 ```
