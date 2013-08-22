@@ -1,7 +1,7 @@
 {
     "name": "backbone",
-    "version": "0.9.10-kanso.2",
-    "categories": ["utils"],
+    "version": "1.0.0-kanso.3",
+    "categories": ["utils", "frameworks"],
     "maintainers": [
         {
             "name": "David Robbins",
